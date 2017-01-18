@@ -1,0 +1,1 @@
+this is subrepo's text file.
